@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @tryea
 - 👀 I’m interested in Web development and Mobile apps development, currently focusing on MERN technology and Vue + Laravel.
 - 🌱 I’m currently learning MERN, Vue + Laravel, Flutter
+- my focus now to learn deep about React and React Native, also understanding more about postgresql
 - 💞️ I’m looking to collaborate on personal project to improve my skill
 - 📫 How to reach me: You can send me email to: aristoersapta@gmail.com
 
