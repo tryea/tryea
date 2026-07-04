@@ -1,6 +1,6 @@
 # Ersapta Aristo
 
-Full-Stack Developer. I help entrepreneurs turn ideas into real products and new businesses, full-stack from database to interface, with AI and Web3 in the toolkit.
+Full-Stack Developer. I help entrepreneurs turn ideas into real products and new businesses, full-stack from database to interface, with AI and automation in the toolkit.
 
 [ersaptaaristo.dev](https://ersaptaaristo.dev) · [LinkedIn](https://linkedin.com/in/ersapta-aristo) · [X](https://x.com/ersapta_a)
 
@@ -23,4 +23,4 @@ See the work at [ersaptaaristo.dev](https://ersaptaaristo.dev).
 
 ## Stack
 
-`TypeScript` · `Next.js` · `React` · `Node` · `NestJS` · `PostgreSQL` · `Drizzle` · `pgvector` · `Tailwind` · `Docker` · `OpenAI` · `Anthropic` · `Web3`
+`TypeScript` · `Next.js` · `React` · `Node` · `NestJS` · `PostgreSQL` · `Drizzle` · `pgvector` · `Tailwind` · `Docker` · `OpenAI` · `Anthropic` · `n8n`
